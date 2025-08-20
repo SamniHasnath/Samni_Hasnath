@@ -17,5 +17,5 @@
 ---
 
 ## 🌍 Connect with me
-- LinkedIn: [samni_hasnath](www.linkedin.com/in/samni-hasnath03)
-- GitHub: [your-username](https://github.com/your-username)
+- LinkedIn: [Samni_Hasnath][https://www.linkedin.com/in/samni-hasnath03/)
+- GitHub: [Samni_Hasnath](https://github.com/your-username)
