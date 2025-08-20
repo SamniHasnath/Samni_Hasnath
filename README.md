@@ -18,4 +18,4 @@
 
 ## 🌍 Connect with me
 - LinkedIn: [Samni_Hasnath][https://www.linkedin.com/in/samni-hasnath03/)
-- GitHub: [Samni_Hasnath](https://github.com/your-username)
+- GitHub: [Samni_Hasnath](https://github.com/SamniHasnath)
