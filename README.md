@@ -5,13 +5,14 @@
 ---
 
 ## 🔧 Skills
-- Programming: C,Python, Java
-- Web: HTML, CSS, JavaScript  
+- Programming: C,Python, Java, SQL
+- Web: HTML, CSS, JavaScript
+- Framework- Bootstrap
 
 ---
 
 ## 📌 Featured Projects
-- [Calculator](https://github.com/your-username/calculator)
+- [Calculator](https://calculator-samnihasnath.netlify.app/)
 
 
 ---
